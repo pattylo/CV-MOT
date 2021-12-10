@@ -1,3 +1,0 @@
-/home/wonder/camera/build/CMakeFiles/rebuild_cache.dir
-/home/wonder/camera/build/CMakeFiles/edit_cache.dir
-/home/wonder/camera/build/CMakeFiles/sort.dir
